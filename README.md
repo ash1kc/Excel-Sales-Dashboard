@@ -15,7 +15,7 @@ The "E-commerce Sales Analysis Dashboard" project entailed a comprehensive exami
 
 - **Top 5 Subcategories by Sale**: The project identified and presented the top-performing subcategories in terms of sales, offering insights into which product segments were driving revenue.
 
-- **Pie Chart Analysis of Ecommerce Sales**: To visually represent the distribution of sales, a pie chart was employed. This graphical analysis provided an easily digestible view of the sales composition among different categories.
+- **Pie Chart Analysis of E-commerce Sales**: To visually represent the distribution of sales, a pie chart was employed. This graphical analysis provided an easily digestible view of the sales composition among different categories.
 
 - **Sales, Profit, Quantity, Order, Profit Margin Analysis**: A holistic examination of key performance indicators including sales, profit, quantity, order statistics, and profit margins was conducted. This multifaceted analysis facilitated a deep understanding of the e-commerce business's operational dynamics.
 
