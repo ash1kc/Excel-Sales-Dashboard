@@ -1,13 +1,13 @@
 # Excel-Sales-Dashboard
-# Dashboard Preview Image for the above project.
+
 
 <img width="1433" alt="DashBoard Image" src="https://github.com/user-attachments/assets/83fe73ad-1157-482d-aadf-0bfa0bc4d718" />
 
 # **Sales Analysis Dashboard**
 
-The "Ecommerce Sales Analysis Dashboard" project entailed a comprehensive examination of sales and profit data within the e-commerce domain. Through diligent data analysis in Microsoft Excel, the following key insights and visualizations were generated:
+The "E-commerce Sales Analysis Dashboard" project entailed a comprehensive examination of sales and profit data within the e-commerce domain. Through diligent data analysis in Microsoft Excel, the following key insights and visualizations were generated:
 
-- **Sales & Profit Analysis**: The project meticulously evaluated sales and profit metrics to provide a comprehensive overview of the financial performance. This analysis helped in understanding the revenue generation and profit margins within the e-commerce business.
+- **Sales & Profit Analysis**: The project meticulously evaluated sales and profit metrics to provide a comprehensive overview of the financial performance. This analysis helped me understand revenue generation and profit margins within the e-commerce business.
 
 - **State-wise Sales**: A geographical perspective was gained by assessing sales data on a state-wise basis. This revealed patterns of regional performance and allowed for targeted marketing strategies and resource allocation.
 
